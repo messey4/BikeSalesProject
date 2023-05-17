@@ -8,8 +8,8 @@ This would enable the stakeholders make better decisions for their company.
 **_Disclaimer_** : This is just a dummy dataset, it does not represent any company.
 
 ## Data Sourcing
-I downloaded the CSV file from a AlexTheAnalyst github page.
-It contains fourteen columns and 1027 rows.
+I downloaded the CSV file from  AlexTheAnalyst github page.
+It contains 14 columns and 1027 rows.
 
 ## Data Transformation/Cleaning
 The data was cleaned with tools in excel. 
