@@ -16,10 +16,10 @@ The data was cleaned with tools in excel.
 
 ## Data Analysis
 The data was analyzed using pivot tables
-![](Screenshot (48).jpg)
+![](Screenshot (48).png)
 
 ## Data Visualization
 The data was visualized using charts and graphs on  microsoft excel.
-![](Screenshot (49).jpg)
+![](Screenshot (49).png)
 
 
